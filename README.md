@@ -9,7 +9,7 @@ final httpProvider = HttpProviderInitializar.initializeWith(
 );
 ```
 
-Before to start a request, we need to define a **Endpoint**, which contains all necessary to make a request:
+Before to start a request, we need to define an **Endpoint**, which contains all necessary to make a request:
 ```dart
 class ZipCodeEndpoint extends Endpoint {
   final String zipcode;
