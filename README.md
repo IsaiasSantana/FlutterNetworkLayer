@@ -1,5 +1,5 @@
 # FlutterNetworkLayer
-Sample how we can create a abstract network layer with Flutter.
+Sample how we can create an abstract network layer with Flutter.
 
 ## Usage
 First, we need to create our **HttpProvider** client:
