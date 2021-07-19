@@ -4,7 +4,7 @@ Sample how we can create an abstract network layer with Flutter.
 ## Usage
 First, we need to create our **HttpProvider** client:
 ```dart
-final httpProvider = HttpProviderInitializar.initializeWith(
+final httpProvider = HttpProviderInitializer.initializeWith(
   configuration: Configuration(baseUrl: 'https://viacep.com.br/ws/'),
 );
 ```
