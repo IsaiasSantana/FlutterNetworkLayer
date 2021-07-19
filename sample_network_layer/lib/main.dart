@@ -73,7 +73,7 @@ class ZipCodeModel {
 }
 
 // This is for sample propose, do not initialize your dependencies this way.
-final httpProvider = HttpProviderInitializar.initializeWith(
+final httpProvider = HttpProviderInitializer.initializeWith(
   configuration: Configuration(baseUrl: 'https://viacep.com.br/ws/'),
 );
 

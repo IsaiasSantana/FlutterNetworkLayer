@@ -11,5 +11,5 @@ export 'src/exceptions/internal_error_exception.dart';
 export 'src/exceptions/network_exception.dart';
 
 // HttpProvider
-export 'src/http_provider/http_provider_initializar.dart';
+export 'src/http_provider/http_provider_initializer.dart';
 export 'src/http_provider/http_provider_interface.dart';
